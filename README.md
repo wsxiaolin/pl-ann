@@ -1,37 +1,26 @@
 # 物实公告整理
 
 #### 介绍
-这是故事的个人整理
 
-#### 软件架构
-软件架构说明
+这是故事的个人公告整理，欢迎各位参与。
 
+#### 项目架构
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+./公告 为markdown版本的公告
+./src 为gitee自动导出的源码
 
 #### 参与贡献
-
 1.  Fork 本仓库
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
 
+#### 内容要求
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.	请使用markdown版本而不要使用unity富文本
+2.	请使用tab缩进
+3.	非来源于 故事@60e933da4ad4cae147f48a66 创建、整理的公告，请标明公告发布者&&整理者，例如：
+```
+来源 崔维兹@5c50057449a8833cb2394181
+整理 故事@60e933da4ad4cae147f48a66
+```
